@@ -5,7 +5,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/imbrunaoo/)
 
 ## About me
-As I already said, my name is Bruno.As I already said, my name is Bruno. For now, I'm 15 years old and I'm studying in my first year of high school, I don't know exactly how long I'll be studying.
+As I already said, my name is Bruno. For now, I'm *15 years old* and I'm studying in my first year of high school, I don't know exactly how long I'll be studying.
    
 **Languages ​​I know a little:**
 
