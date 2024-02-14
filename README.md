@@ -2,7 +2,7 @@
 
 ## My social networks:
 [![Blog](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@BRUNO1O?si=1Ha6znQG0Jq_O3by)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bruhno/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bruhno00/)
 
 ## About me
 As I already said, my name is Bruno. For now, I'm *15 years old* and I'm studying in my first year of high school, I don't know exactly how long I'll be studying.
