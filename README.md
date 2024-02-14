@@ -2,7 +2,7 @@
 
 ## My social networks:
 [![Blog](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@BRUNO1O?si=1Ha6znQG0Jq_O3by)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/imbrunaoo/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bruhno/)
 
 ## About me
 As I already said, my name is Bruno. For now, I'm *15 years old* and I'm studying in my first year of high school, I don't know exactly how long I'll be studying.
@@ -20,4 +20,4 @@ As I already said, my name is Bruno. For now, I'm *15 years old* and I'm studyin
 I create straightforward programs. If you'd like to reach out to me, feel free to send me a message on Instagram.
    
 ### Nothing important:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imbrunao&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bruuhno&layout=compact)
